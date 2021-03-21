@@ -1,0 +1,13 @@
+.aside {
+    display: inline-block;
+    width: 10%;
+    vertical-align: top;
+}
+
+.asideList {
+    color: blue;
+    width: 95%;
+    padding: 10px;    
+    list-style-type: none;
+    font-size: large;    
+}
